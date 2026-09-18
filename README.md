@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-mMe9u08m7ewmvtS-YqCiWb9p9jFTUt3nCjVfnJuLboVojpD_NAUcABk&s=10"  />
+  <img data-importer="image" width="100%" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-mMe9u08m7ewmvtS-YqCiWb9p9jFTUt3nCjVfnJuLboVojpD_NAUcABk&s=10"  />
 </div>
 
 ###
@@ -62,10 +62,5 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JafetSanchez7v7/JafetSanchez7v7/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JafetSanchez7v7/JafetSanchez7v7/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JafetSanchez7v7/JafetSanchez7v7/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
-###
+
