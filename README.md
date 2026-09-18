@@ -58,6 +58,14 @@
 
 ###
 
-<h6 data-importer="text" align="left">-languages: C#, Javascript, python, Dart.<br>-Backend: ASP.NET Core, Entity Framework Core, Express, REST APIs, Minipal APIs.<br>-Databases: SQL Server, PostgresSQL, MongoDb.<br>-tools: git, github, docker, azure, linux, supabase</h6>
+<p data-importer="text" align="left">-languages: C#, Javascript, python, Dart.<br>-Backend: ASP.NET Core, Entity Framework Core, Express, REST APIs, Minipal APIs.<br>-Databases: SQL Server, PostgresSQL, MongoDb.<br>-tools: git, github, docker, azure, linux, supabase</p>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JafetSanchez7v7/JafetSanchez7v7/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JafetSanchez7v7/JafetSanchez7v7/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JafetSanchez7v7/JafetSanchez7v7/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
